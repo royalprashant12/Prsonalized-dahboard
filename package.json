@@ -1,7 +1,6 @@
 {
   "name": "personalized-dashboard",
   "version": "1.0.0",
-  "homepage": "https://prashantkumar-2003.github.io/personalized-dashboard",
   "private": true,
   "dependencies": {
     "@heroicons/react": "^2.2.0",
