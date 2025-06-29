@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/personalized-dashboard/static/css/main.fbfcec4c.css",
+    "main.js": "/personalized-dashboard/static/js/main.d68a3bf8.js",
+    "index.html": "/personalized-dashboard/index.html",
+    "main.fbfcec4c.css.map": "/personalized-dashboard/static/css/main.fbfcec4c.css.map",
+    "main.d68a3bf8.js.map": "/personalized-dashboard/static/js/main.d68a3bf8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbfcec4c.css",
+    "static/js/main.d68a3bf8.js"
+  ]
+}
